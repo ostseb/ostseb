@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hey, I'm Sebastian!👋
+
+I’m a software engineer from Kalmar, Sweden trying to developing things for the web (and occasionally also for other platforms).
+
+I run a tech agency called [Codebrain](/goa-codebet) where we keep computer geeks happy by letting them do what they love to do. Code. 🤓
 
 <!--
 **ostseb/ostseb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
